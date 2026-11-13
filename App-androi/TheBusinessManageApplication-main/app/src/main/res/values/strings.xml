@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Business Manage</string>
+    <string name="app_tagline">The Business Manage Application</string>
+
+    <!-- Navigation Tabs -->
+    <string name="nav_home">Tổng quan</string>
+    <string name="nav_tasks">Công việc</string>
+    <string name="nav_branches">Chi nhánh</string>
+    <string name="nav_directory">Nhân sự &amp; Kho</string>
+    <string name="nav_finance">Tài chính</string>
+    <string name="nav_profile">Hệ thống</string>
+
+    <!-- Dashboard / Home Screen -->
+    <string name="greeting_user">Alex Nguyễn</string>
+    <string name="user_badge_role">Giám đốc Điều hành (CEO)</string>
+    <string name="search_placeholder">Tìm dự án, nhân sự, hợp đồng hoặc phòng ban…</string>
+    <string name="quick_actions_title">Quy trình nghiệp vụ nhanh</string>
+    <string name="action_create_task">Tạo dự án / việc</string>
+    <string name="action_import_db">Nhập DB mới</string>
+    <string name="action_checkin">Chấm công GPS</string>
+    <string name="action_approve">Duyệt ngân sách</string>
+    <string name="recent_tasks_title">Dự án &amp; Công việc trọng tâm</string>
+    <string name="view_all">Xem tất cả</string>
+
+    <!-- Tasks & Operations Screen -->
+    <string name="filter_all">Tất cả</string>
+    <string name="filter_in_progress">Đang thực hiện</string>
+    <string name="filter_pending">Chờ phê duyệt</string>
+    <string name="filter_completed">Hoàn thành</string>
+    <string name="filter_overdue">Quá hạn / Tạm dừng</string>
+
+    <!-- Branch & Attendance Screen -->
+    <string name="branch_header_title">Giám sát Chi nhánh &amp; Chấm công</string>
+    <string name="branch_live_status">Hệ thống văn phòng đang hoạt động</string>
+
+    <!-- HR & Inventory Screen -->
+    <string name="directory_title">Nhân sự &amp; Giải pháp Doanh nghiệp</string>
+
+    <!-- Finance & Analytics Screen -->
+    <string name="treasury_card_title">Quỹ ngân sách khả dụng</string>
+    <string name="currency_symbol">VND</string>
+    <string name="revenue_chart_title">Biểu đồ doanh thu &amp; hiệu suất tuần</string>
+    <string name="budget_breakdown_title">Cơ cấu dòng tiền &amp; ngân sách</string>
+
+    <!-- Profile & Enterprise Settings Screen -->
+    <string name="profile_title">Quản trị Hệ thống &amp; Cài đặt</string>
+    <string name="user_email">alex.nguyen@bizmanage.vn</string>
+    <string name="user_phone">+84 987 654 321</string>
+    <string name="setting_dark_mode">Chế độ giao diện tối (Dark Mode)</string>
+    <string name="setting_logout">Đăng xuất phiên quản trị</string>
+
+    <!-- Create Business Task Modal -->
+    <string name="modal_create_task_title">Khởi tạo Dự án &amp; Quy trình</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="btn_confirm_task">Phê duyệt &amp; Lưu DB</string>
+</resources>
